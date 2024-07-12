@@ -1,0 +1,12 @@
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/bin/Debug/net8.0/ShopHub.Application.deps.json
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/bin/Debug/net8.0/ShopHub.Application.dll
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/bin/Debug/net8.0/ShopHub.Application.pdb
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/obj/Debug/net8.0/ShopHub.Application.csproj.AssemblyReference.cache
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/obj/Debug/net8.0/ShopHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/obj/Debug/net8.0/ShopHub.Application.AssemblyInfoInputs.cache
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/obj/Debug/net8.0/ShopHub.Application.AssemblyInfo.cs
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/obj/Debug/net8.0/ShopHub.Application.csproj.CoreCompileInputs.cache
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/obj/Debug/net8.0/ShopHub.Application.dll
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/obj/Debug/net8.0/refint/ShopHub.Application.dll
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/obj/Debug/net8.0/ShopHub.Application.pdb
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/obj/Debug/net8.0/ref/ShopHub.Application.dll
