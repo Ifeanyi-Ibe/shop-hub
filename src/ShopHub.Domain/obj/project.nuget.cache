@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VKOv1NgoCv/qW0EUyUKKKXDYOv1CMfpIY7S6Rf1tcmd+CeDe9iB4GzNIda3lEnBBYFyvUZ/gztmVmNzoNlPdFw==",
+  "dgSpecHash": "q2/YeNl5hVFCcV/mTgb+AsG2p7h7AINJCrWaoXV9YLks151HNRDHBZqJvZcSXdUi4I8qbAbqzwav24JdIERXJg==",
   "success": true,
-  "projectFilePath": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Domain/ShopHub.Domain.csproj",
+  "projectFilePath": "/Users/mac/Desktop/shop-hub/src/ShopHub.Domain/ShopHub.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

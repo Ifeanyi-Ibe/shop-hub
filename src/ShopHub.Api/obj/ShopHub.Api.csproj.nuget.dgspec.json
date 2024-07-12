@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Api/ShopHub.Api.csproj": {}
+    "/Users/mac/Desktop/shop-hub/src/ShopHub.Api/ShopHub.Api.csproj": {}
   },
   "projects": {
-    "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Api/ShopHub.Api.csproj": {
+    "/Users/mac/Desktop/shop-hub/src/ShopHub.Api/ShopHub.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Api/ShopHub.Api.csproj",
+        "projectUniqueName": "/Users/mac/Desktop/shop-hub/src/ShopHub.Api/ShopHub.Api.csproj",
         "projectName": "ShopHub.Api",
-        "projectPath": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Api/ShopHub.Api.csproj",
-        "packagesPath": "/Users/ifeanyi-ibe/.nuget/packages/",
-        "outputPath": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Api/obj/",
+        "projectPath": "/Users/mac/Desktop/shop-hub/src/ShopHub.Api/ShopHub.Api.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/Desktop/shop-hub/src/ShopHub.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ifeanyi-ibe/.nuget/NuGet/NuGet.Config"
+          "/Users/mac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj": {
-                "projectPath": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj"
+              "/Users/mac/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj": {
+                "projectPath": "/Users/mac/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj"
               },
-              "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Infrastructure/ShopHub.Infrastructure.csproj": {
-                "projectPath": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Infrastructure/ShopHub.Infrastructure.csproj"
+              "/Users/mac/Desktop/shop-hub/src/ShopHub.Infrastructure/ShopHub.Infrastructure.csproj": {
+                "projectPath": "/Users/mac/Desktop/shop-hub/src/ShopHub.Infrastructure/ShopHub.Infrastructure.csproj"
               }
             }
           }
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -52,6 +57,10 @@
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.2-dev-00338, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -77,21 +86,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.4/libexec/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj": {
+    "/Users/mac/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj",
+        "projectUniqueName": "/Users/mac/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj",
         "projectName": "ShopHub.Application",
-        "projectPath": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj",
-        "packagesPath": "/Users/ifeanyi-ibe/.nuget/packages/",
-        "outputPath": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/obj/",
+        "projectPath": "/Users/mac/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/Desktop/shop-hub/src/ShopHub.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ifeanyi-ibe/.nuget/NuGet/NuGet.Config"
+          "/Users/mac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -109,6 +118,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -144,21 +158,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.4/libexec/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Infrastructure/ShopHub.Infrastructure.csproj": {
+    "/Users/mac/Desktop/shop-hub/src/ShopHub.Infrastructure/ShopHub.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Infrastructure/ShopHub.Infrastructure.csproj",
+        "projectUniqueName": "/Users/mac/Desktop/shop-hub/src/ShopHub.Infrastructure/ShopHub.Infrastructure.csproj",
         "projectName": "ShopHub.Infrastructure",
-        "projectPath": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Infrastructure/ShopHub.Infrastructure.csproj",
-        "packagesPath": "/Users/ifeanyi-ibe/.nuget/packages/",
-        "outputPath": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Infrastructure/obj/",
+        "projectPath": "/Users/mac/Desktop/shop-hub/src/ShopHub.Infrastructure/ShopHub.Infrastructure.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/Desktop/shop-hub/src/ShopHub.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ifeanyi-ibe/.nuget/NuGet/NuGet.Config"
+          "/Users/mac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -176,6 +190,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -203,7 +222,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.4/libexec/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

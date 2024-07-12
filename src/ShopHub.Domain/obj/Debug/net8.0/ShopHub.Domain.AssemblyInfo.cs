@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopHub.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e560c5e1b5509db777efb02b73d1025e56e41531")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+782902224646c77a51ae0f5981fb5a59593c8eef")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopHub.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopHub.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

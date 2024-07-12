@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6EINiAjaDqMTXEhHsY1tapH5i9ZxbmhGbfy6DRjpFJQoqswRGzJd3QOQKm0sMZaIaUUjrKXwo3couVRcis5zQw==",
+  "dgSpecHash": "cPhDKzZE+KllcK5xOwS6FHGtS1pANxseKQjhxQNZ2R60RXH3ZIFOj+G8hp+givug+PYxIUdLzBPCcbDTnnWteA==",
   "success": true,
-  "projectFilePath": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Infrastructure/ShopHub.Infrastructure.csproj",
+  "projectFilePath": "/Users/mac/Desktop/shop-hub/src/ShopHub.Infrastructure/ShopHub.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "/Users/ifeanyi-ibe/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
-    "/Users/ifeanyi-ibe/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

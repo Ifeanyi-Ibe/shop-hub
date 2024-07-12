@@ -246,19 +246,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/ifeanyi-ibe/.nuget/packages/": {}
+    "/Users/mac/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj",
+      "projectUniqueName": "/Users/mac/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj",
       "projectName": "ShopHub.Application",
-      "projectPath": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj",
-      "packagesPath": "/Users/ifeanyi-ibe/.nuget/packages/",
-      "outputPath": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/obj/",
+      "projectPath": "/Users/mac/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj",
+      "packagesPath": "/Users/mac/.nuget/packages/",
+      "outputPath": "/Users/mac/Desktop/shop-hub/src/ShopHub.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ifeanyi-ibe/.nuget/NuGet/NuGet.Config"
+        "/Users/mac/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -276,6 +276,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -311,7 +316,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.4/libexec/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

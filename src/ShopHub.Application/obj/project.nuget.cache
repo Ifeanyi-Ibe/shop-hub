@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "2ZSmg7Vo/bL3KlHizA00sInHortFNfWYr2wuRS9aTHL8v0KEBu8mpo0OMIkgzA4TGfPmvsT4SF5ucybcmtkspw==",
+  "dgSpecHash": "l4RLQ/eaxBw9L7npaxo5G7lV0DaIC1s+Jiod7RraOR9eO5x+uGnZT/hRs1TruwNBQWw8mIoQmef37389V+zuwA==",
   "success": true,
-  "projectFilePath": "/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj",
+  "projectFilePath": "/Users/mac/Desktop/shop-hub/src/ShopHub.Application/ShopHub.Application.csproj",
   "expectedPackageFiles": [
-    "/Users/ifeanyi-ibe/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
-    "/Users/ifeanyi-ibe/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.2/fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
-    "/Users/ifeanyi-ibe/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
-    "/Users/ifeanyi-ibe/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/Users/ifeanyi-ibe/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
-    "/Users/ifeanyi-ibe/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "/Users/mac/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
+    "/Users/mac/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.2/fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
+    "/Users/mac/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
