@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ovqilmzbu0ZS0QxkgMERuZwoyDXjSL8u4hFSu9MC+ko=",
+  "Source": "ShopHub.Api",
+  "BasePath": "_content/ShopHub.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

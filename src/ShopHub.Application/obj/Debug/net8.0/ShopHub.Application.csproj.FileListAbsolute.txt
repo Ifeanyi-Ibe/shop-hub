@@ -10,3 +10,4 @@
 /Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/obj/Debug/net8.0/refint/ShopHub.Application.dll
 /Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/obj/Debug/net8.0/ShopHub.Application.pdb
 /Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/obj/Debug/net8.0/ref/ShopHub.Application.dll
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Application/obj/Debug/net8.0/ShopHub.Application.sourcelink.json

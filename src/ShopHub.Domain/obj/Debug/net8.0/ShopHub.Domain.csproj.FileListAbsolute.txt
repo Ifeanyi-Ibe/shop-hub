@@ -1,0 +1,12 @@
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Domain/bin/Debug/net8.0/ShopHub.Domain.deps.json
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Domain/bin/Debug/net8.0/ShopHub.Domain.dll
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Domain/bin/Debug/net8.0/ShopHub.Domain.pdb
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Domain/obj/Debug/net8.0/ShopHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Domain/obj/Debug/net8.0/ShopHub.Domain.AssemblyInfoInputs.cache
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Domain/obj/Debug/net8.0/ShopHub.Domain.AssemblyInfo.cs
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Domain/obj/Debug/net8.0/ShopHub.Domain.csproj.CoreCompileInputs.cache
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Domain/obj/Debug/net8.0/ShopHub.Domain.sourcelink.json
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Domain/obj/Debug/net8.0/ShopHub.Domain.dll
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Domain/obj/Debug/net8.0/refint/ShopHub.Domain.dll
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Domain/obj/Debug/net8.0/ShopHub.Domain.pdb
+/Users/ifeanyi-ibe/Desktop/shop-hub/src/ShopHub.Domain/obj/Debug/net8.0/ref/ShopHub.Domain.dll
